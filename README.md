@@ -19,7 +19,7 @@ In this phase, the new requirement is that any user that has successfully logged
 
 ## Links to application deployment
 
-PR: https://github.com/tripppdx/bearer-auth/pull/1
+PR: https://github.com/tripppdx/bearer-auth/pull/2
 
 ## Visual
 
